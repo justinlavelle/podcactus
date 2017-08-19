@@ -11,10 +11,10 @@ This application is a work in progress. The code is not the cleanest, as I am le
 Any help would be greatly appreciated! I know nothing about electron packaging, so that's definitely an area where I may need help.
 
 #### Planned Features
--[ ] download podcasts
--[x] play downloaded podcast
--[ ] stream podcast
--[x] skip forward/backward
--[x] pause/play
--[x] search/discover
--[ ] subscribe to feed
+- [ ] download podcasts
+- [x] play downloaded podcast
+- [ ] stream podcast
+- [x] skip forward/backward
+- [x] pause/play
+- [x] search/discover
+- [ ] subscribe to feed
